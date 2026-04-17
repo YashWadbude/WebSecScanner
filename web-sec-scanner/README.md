@@ -1,16 +1,25 @@
-<!-- # (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Project\web-sec-scanner\.venv\Scripts\Activate.ps1)
-# PS C:\Project\web-sec-scanner> pip install flask requests beautifulsoup4
-# PS C:\Project\web-sec-scanner> c:\Project\web-sec-scanner\.venv\Scripts\python.exe -m pip install flask requests beautifulsoup4
-# PS C:\Project\web-sec-scanner> pip install flask requests beautifulsoup4
+## 📸 Screenshots
 
+### Home Page
+![Home](screenshots/home.png)
 
-# backend 
-# cd backend 
-# (.venv) PS C:\Project\web-sec-scanner\backend> python app.py
+### Login Page
+![Login](screenshots/login.png)
 
-# frontend 
-# cd frontend 
-# (.venv) PS C:\Project\web-sec-scanner\frontend> python -m http.server 5500 -->
+### Search
+![History](screenshots/search.png)
+
+### Scan Page
+![Scan](screenshots/scan.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### History
+![History](screenshots/history.png)
+
+### Pdf
+![History](screenshots/pdf.png)
 
 
 
