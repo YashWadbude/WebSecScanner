@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](web-sec-scanner/screenshots/home.png)
 
 ### Login Page
 ![Login](screenshots/login.png)
