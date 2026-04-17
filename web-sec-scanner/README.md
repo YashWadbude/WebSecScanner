@@ -1,28 +1,3 @@
-## 📸 Screenshots
-
-### Home Page
-![Home](screenshots/Home.png)
-
-### Login Page
-![Login](screenshots/Login.png)
-
-### Search
-![History](screenshots/Search.png)
-
-### Scan Page
-![Scan](screenshots/Scan.png)
-
-### Dashboard
-![Dashboard](screenshots/Dashboard.png)
-
-### History
-![History](screenshots/History.png)
-
-### Pdf
-![History](screenshots/Pdf.png)
-
-
-
 # 🛡️ Web Security Scanner
 
 A full-stack **Web Application Security Scanner** designed to detect common vulnerabilities based on the **OWASP Top 10**.  
@@ -38,8 +13,7 @@ Built with a focus on real-world security workflows, multi-user support, and det
 - 🧪 XSS (Cross-Site Scripting) Detection
 - 💉 SQL Injection Detection
 - 🛡️ Security Headers Analysis
-- 📁 Directory Discovery
-- 📊 Interactive Dashboard with Severity Charts
+- 📊 Interactive Dashboard 
 - 📜 Scan History (per user)
 - 📄 Downloadable PDF Reports
 
@@ -98,6 +72,32 @@ Built with a focus on real-world security workflows, multi-user support, and det
    - Detects vulnerabilities
 4. Results stored in database
 5. Dashboard + History display results
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/Home.png)
+
+### Login Page
+![Login](screenshots/Login.png)
+
+### Search
+![History](screenshots/Search.png)
+
+### Scan Page
+![Scan](screenshots/Scan.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### History
+![History](screenshots/History.png)
+
+### Pdf
+![History](screenshots/Pdf.png)
+
 
 ---
 
