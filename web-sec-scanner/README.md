@@ -1,25 +1,25 @@
 ## 📸 Screenshots
 
 ### Home Page
-![Home](web-sec-scanner/screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Search
-![History](screenshots/search.png)
+![History](screenshots/Search.png)
 
 ### Scan Page
-![Scan](screenshots/scan.png)
+![Scan](screenshots/Scan.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### History
-![History](screenshots/history.png)
+![History](screenshots/History.png)
 
 ### Pdf
-![History](screenshots/pdf.png)
+![History](screenshots/Pdf.png)
 
 
 
